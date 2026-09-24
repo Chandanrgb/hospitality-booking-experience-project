@@ -1,7 +1,8 @@
 # Hospitality Booking Experience & Chatbot Project
 
 ## Project Overview
-
+![image alt](https://github.com/Chandanrgb/hospitality-booking-experience-project/blob/main/Screenshot%202026-09-24%20205419.png?raw=true)
+![image alt](https://github.com/Chandanrgb/hospitality-booking-experience-project/blob/main/Screenshot%202026-09-24%20205446.png?raw=true)
 This project focuses on the implementation and operational management of a digital hospitality booking experience, combining an online room-booking interface with customer-facing chatbot and communication workflows.
 
 The project was carried out in a real-world hospitality environment, where the objective was to make the guest journey more structured, accessible and easier to navigate — from initial enquiry to room selection and booking.
